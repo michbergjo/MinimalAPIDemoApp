@@ -5,4 +5,4 @@ begin
 	('Tim', 'Corey'),
 	('John', 'Smith'),
 	('Mary', 'Jones');
-end 
+end
